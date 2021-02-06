@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 --> 
--📫 How to reach me: backend.roshan@gmail.com
-- 😄 Interests: AWS,Networking
+- 📫 How to reach me: backend.roshan@gmail.com
+- 😄 Interests: AWS, Networking, History
 - ⚡ Fun fact: spend free time reading mangas and fantasy...
 
 ✨ __ ✨
