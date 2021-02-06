@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-✨ __ ✨
-Here are some ideas to get you started:
+✨ Here are some ideas to get you started ✨ :
+
 
 - 🔭 I’m currently working on HTML, CSS, Bootstarp
 - 🌱 I’m currently learning JavaScript
